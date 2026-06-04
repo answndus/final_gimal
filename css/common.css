@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
 }
+h1{}
+
 
 html {
     scroll-behavior: smooth; /*클릭 시 원하는 위치로 부드럽게 이동하게 해줌.*/
