@@ -204,11 +204,8 @@ footer {
     }
 
     nav a {
-        flex: 1;
         padding: 10px;
         font-size: 11px;
-        text-align: center;
-        white-space: nowrap;
     }
 
     /* ----- 푸터 ----- */
