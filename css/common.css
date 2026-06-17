@@ -99,8 +99,6 @@ nav a {
     text-decoration: none;
     font-weight: 500;
     width: fit-content;
-    display: flex;
-    justify-content: center;
     padding: 15px;
     border-radius: 25px;
     box-shadow: 4px 6px 5px rgba(0, 0, 0, 0.05);
@@ -224,17 +222,11 @@ footer {
         box-sizing: border-box;
     }
 
-    footer .school, 
-    footer .email {
-        width: 100%;
-        align-items: flex-start;
-    }
-
     .sidi {
         font-size: 18px; 
     }
 
-    .b-class, .email div {
+    .b-class, .email {
         font-size: 14px;
     }
 }
